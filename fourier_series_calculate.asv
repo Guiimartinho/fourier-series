@@ -12,13 +12,11 @@
 % 
 % Then you choose the type of Fourier Series to be used: Trigonometric,
 % Compact Trigonometirc or Exponential form.
-% The script then prints the first 20 coefficients. 
-% 
-% Finally, for the reconstruction, you choose how many coefficients (may be
-% more than 20).
-% Then you get the final plot comparing the original and the reconstructd
-% signal.
-% 
+% The script then prints the first 20 coeffi 
+
+
+
+
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
 
 clear all
