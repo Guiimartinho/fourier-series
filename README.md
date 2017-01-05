@@ -10,7 +10,7 @@ Also a first test with GitHub.
 This script calculates the Fourier Series aproximation of a chosen
 signal:
 - Rectangular pulse, with option to choose the ON/OFF ratio
-- Exponetial function, with option to choose the value for the constant
+- Exponential function, with option to choose the value for the constant
 - Sawtooth function
 - Triangular function
 
